@@ -1,0 +1,60 @@
+baseURL: 
+languageCode: en-us
+title: Small Stepper
+theme: ["PaperMod"]
+paginate: 5
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+#googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowBreadCrumbs: true
+
+  ShowShareButtons: true
+
+  ShowPostNavLinks: true
+  
+  # home-info mode
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: Welcome to my small corner of the internet. The nature of this website/blog is to be a small public notebook where I jot down noteworthy moments surrounding my own art and those of other artists I appreciate and adore.
+
+  socialIcons: # optional
+    - name: "Linktree"
+      url: "https://linksta.cc/@ndolo"
+    - name: "vimeo"
+      url: "https://vimeo.com/ndolo"
+    - name: "itchio"
+      url: "https://ndolo.itch.io"
+    - name: "email"
+      url: "test@mail.com"
+      
+menu:
+  main:
+    - idnetifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - idnetifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - idnetifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
+    - idnetifier: aboutme
+      name: About & Contact
+      url: /aboutme/
+      weight: 40
