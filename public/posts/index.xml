@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Small Stepper</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on Small Stepper</description>
+    <generator>Hugo -- 0.135.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Kid, The Toad and The Marsh-Mellow Kingdom</title>
+      <link>//localhost:1313/posts/third/</link>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/third/</guid>
+      <description>&lt;p&gt;Bambu was poking at tadpoles all day, with a scrawny little stick. Not to hurt them or anything but just enough to make them change directions and swim away, really, really fast which he loved to see. He didn’t always come up here alone, but his friend Leila had gone up-country for the weekend so he felt a little lonely at the moment. Even the little flies that usually buzzed around were nowhere to be seen.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OOGLY, the wobbly monster</title>
+      <link>//localhost:1313/posts/second/</link>
+      <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/second/</guid>
+      <description>&lt;p&gt;OOGLY, the wobbly monster. Woke from his sleep, with a grunt, a snore and a great big ROAAR! “Oh! What a nasty little nap” he said. Stretching his furry arms wide, he looked out his dusty windows and wondered. “Why is the sun so bright outside?” he said squinting his eyes. Just then his stomach went Grrr! Rumble! Rumble! “Hmmm… the rumblies! Up-up on my feet, I must search for something to eat. Scrambled eggs are neat, but I might need some… MEAT!” OOGLY said, with a sinister smile hanging from his sharp yellow teeth. He then wobbled and mobbled out of bed, tugging his great big furry tummy. Out he rolled, looking for something YUMMY!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Logging Fleeting Memories</title>
+      <link>//localhost:1313/posts/first/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/first/</guid>
+      <description>&lt;p&gt;To whoever is reading this,&lt;/p&gt;
+&lt;p&gt;I hope you are well. If note I pray that you find grace in these times of great despair.&lt;/p&gt;
+&lt;p&gt;This is an attempt to climb inside a time capsule and log thoughts surrounding the conception of the project that ended up as the experimental film ‘I DIDN’T ASK TO BE HERE‘ before they crumble and disappear from this feeble thing we call memory.&lt;/p&gt;
+&lt;p&gt;The first seed was planted way back in the last quarter of 2020 by an image ‘itskvm&amp;rsquo;(a long time collaborator) had of a lonely figure in his room smoking a cigarette with the weight of the world on their shoulders.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
